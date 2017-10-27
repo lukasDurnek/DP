@@ -1,0 +1,1 @@
+1 * * * * C:\wamp64\www\bak2\connect_remote.php

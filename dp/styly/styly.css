@@ -1,0 +1,73 @@
+body {
+    text-align: justify;
+    font-family: "Times New Roman", Times, serif;
+    color: #000000;
+    font-size: 14px; /* velkost pisma */
+    background-color: rgba(0, 0, 0, 0.1);
+}
+
+#mail {
+
+    text-align: center;
+}
+
+#formular {
+    width: 55%;
+    margin-top: 10px;
+    text-align: right;
+}
+
+
+/*_____MENU______*/
+
+table {
+    margin: 0 auto;
+    width: 50%;
+    border-collapse: collapse;
+}
+
+table, td, th {
+    height: 30px;
+    border: 1px solid black;
+
+}
+
+th {
+    cursor:pointer;
+    background: rgba(0, 0, 0, 0.83);
+    color: #fcfaff;
+}
+
+tr:nth-child(even) {
+    background-color: rgba(18, 18, 18, 0.08);
+}
+
+h1 {
+    text-align: center;
+}
+
+.center{
+    text-align: center;
+}
+
+th:hover{
+    background: #0c7fb0;
+}
+
+th.nothover:hover{
+    background: rgba(0, 0, 0, 0.83);
+}
+
+.error{
+    font-size: 16px;
+    color: #ff0a00;
+}
+
+.success{
+    font-size: 16px;
+    color: green;
+}
+
+.mouse {
+    cursor: default;
+}

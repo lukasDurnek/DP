@@ -1,0 +1,6 @@
+could not find driver./upload/.
+Warning: fopen(./upload/.): failed to open stream: Permission denied in C:\wamp64\www\bak2\sleep.php on line 7
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\wamp64\www\bak2\sleep.php on line 8
+
+Fatal error: Call to undefined function pg_escape_bytea() in C:\wamp64\www\bak2\sleep.php on line 10
